@@ -1,0 +1,27 @@
+{
+        "https://github.com/athulecloud-1207/jaffle_shop": {
+            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
+            "branch": "main",
+            "email": ["asunil@ecloudcontrol.com"],
+            "group": "data-eng"
+        },
+         "https://github.com/athulecloud-1207/dags": {
+            "path": "/appz/home/airflow/dags/airflow_dags",
+            "branch": "main",
+            "email": ["asunil@ecloudcontrol.com"],
+            "group": "data-eng"
+        },
+        "https://github.com/athulecloud-1207/python": {
+            "path": "/appz/home/airflow/dags/python",
+            "branch": "main",
+            "email": ["asunil@ecloudcontrol.com"],
+            "group": "data-eng"
+        },
+        "https://github.com/athulecloud-1207/agent_dags": {
+            "path": "/appz/home/airflow/dags/agent_dags",
+            "branch": "main",
+            "email": ["asunil@ecloudcontrol.com"],
+            "group": "data-eng"
+        }
+}
+        
