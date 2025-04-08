@@ -24,7 +24,7 @@
             "group": "data-eng"
         },
         "https://github.com/athulecloud-1207/Streamlite": {
-            "path": "/appz/home/streamlit",
+            "path": "/appz/home/streamlit/app",
             "branch": "main",
             "email": ["asunil@ecloudcontrol.com"],
             "group": "data-eng"
