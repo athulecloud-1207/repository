@@ -23,5 +23,10 @@
             "email": ["asunil@ecloudcontrol.com"],
             "group": "data-eng"
         }
+        "https://github.com/athulecloud-1207/hello_dag": {
+            "path": "/appz/home/hello_dag/app",
+            "branch": "main",
+            "email": ["asunil@ecloudcontrol.com"],
+            "group": "data-eng"
 }
         
