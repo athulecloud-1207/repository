@@ -1,32 +1,37 @@
 {
-        "https://github.com/athulecloud-1207/jaffle_shop": {
-            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
-            "branch": "main",
-            "email": ["asunil@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
-        "https://github.com/athulecloud-1207/python": {
-            "path": "/appz/home/airflow/dags/python",
-            "branch": "main",
-            "email": ["asunil@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
-        "https://github.com/athulecloud-1207/agent_dags": {
-            "path": "/appz/home/airflow/dags/agent_dags",
-            "branch": "main",
-            "email": ["asunil@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
-        "https://github.com/athulecloud-1207/Streamlite": {
-            "path": "/appz/home/streamlit/app",
-            "branch": "main",
-            "email": ["asunil@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
-        "https://github.com/athulecloud-1207/hello_dag": {
-            "path": "/appz/home/hello_dag/app",
-            "branch": "main",
-            "email": ["asunil@ecloudcontrol.com"],
-            "group": "data-eng"
-}
-        
+    "https://github.com/athulecloud-1207/jaffle_shop": {
+        "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
+        "branch": "main",
+        "email": ["asunil@ecloudcontrol.com"],
+        "group": "data-eng"
+    },
+    "https://github.com/athulecloud-1207/python": {
+        "path": "/appz/home/airflow/dags/python",
+        "branch": "main",
+        "email": ["asunil@ecloudcontrol.com"],
+        "group": "data-eng"
+    },
+    "https://github.com/athulecloud-1207/agent_dags": {
+        "path": "/appz/home/airflow/dags/agent_dags",
+        "branch": "main",
+        "email": ["asunil@ecloudcontrol.com"],
+        "group": "data-eng"
+    },
+    "https://github.com/athulecloud-1207/Streamlite": {
+        "path": "/appz/home/streamlit/app",
+        "branch": "main",
+        "email": ["asunil@ecloudcontrol.com"],
+        "group": "data-eng"
+    },
+    "https://github.com/athulecloud-1207/hello_dag": {
+        "path": "/appz/home/hello_dag/app",
+        "branch": "main",
+        "email": ["asunil@ecloudcontrol.com"],
+        "group": "data-eng"
+    },
+    "https://github.com/athulecloud-1207/another_repo": {
+        "path": "/appz/home/another_repo/app",
+        "branch": "main",
+        "email": ["asunil@ecloudcontrol.com"],
+        "group": "data-eng"
+    }
