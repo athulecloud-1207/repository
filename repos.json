@@ -28,10 +28,6 @@
         "branch": "main",
         "email": ["asunil@ecloudcontrol.com"],
         "group": "data-eng"
-    },
-    "https://github.com/athulecloud-1207/another_repo": {
-        "path": "/appz/home/another_repo/app",
-        "branch": "main",
-        "email": ["asunil@ecloudcontrol.com"],
-        "group": "data-eng"
     }
+}    
+    
